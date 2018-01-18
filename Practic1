@@ -47,8 +47,8 @@
 <dd></dd>
 <dd></dd>
 </dl>
-<dt>Recent Comments</dt>
 <dl>
+<dt>Recent Comments</dt>
 <dt></dt>
 <dt></dt>
 <dt></dt>
@@ -58,13 +58,23 @@
 </dl>
 </section>
 <footer>
-
+<h2></h2>
 <p></p>
 
+<h2>Site page</h2>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
+
+<dl>
+<dt>Recent Comments</dt>
+<dt><a href=""></a></dt>
+<dt><a href=""></a></dt>
+<dt><a href=""></a></dt>
+<dt><a href=""></a></dt>
+<dt><a href=""></a></dt>
+</dl>
 </footer>
 </body>
 </head>
