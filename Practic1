@@ -1,9 +1,9 @@
 <!DOCTYPE HTML>
 <HTML>
 <head>
+</head>
 <body>
 <header>
-<background="">
 <a href=""></a>
 <nav>
 <ul>
@@ -17,27 +17,26 @@
 <section>
 	<h1></h1>
 	<time datetime="<дата и время>"></time>
-	<img src="green.png" alt="">
-	<p><cite>
-	
-	</cite></p>
-	<p><b></b> <a href=""></a></p>
+	<article><img src="green.png" alt=""></article>
+	<p><i> </i></p>
+	<p><mark></mark> <a href=""></a></p>
 	<a href="index2.html"></a>
 </section>
 
 <section>
 	<h1></h1>
 	<time datetime="<дата и время>"></time>
-	<img src="green.png" alt="">
-	<p><cite>
+	<article><img src="green.png" alt=""></article>
+	<p><mark>
 		
-	</cite></p>
-	<p>	<b>	</b> <a href="Praesent gravida suscipt leo,"></a>	</p>
+	</mark></p>
+	<p>	<i>	</i> <a href="Praesent gravida suscipt leo,"></a></p>
 	<a href=""></a>
 </section>
 
+
 <section>
-<dl>
+<menu>
 <dt>Categories</dt>
 <dd></dd>
 <dd></dd>
@@ -62,10 +61,14 @@
 <p></p>
 
 <h2>Site page</h2>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
+<nav>
+<ul>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+</ul>
+</nav>
 
 <dl>
 <dt>Recent Comments</dt>
@@ -77,5 +80,4 @@
 </dl>
 </footer>
 </body>
-</head>
 </HTML>
