@@ -25,6 +25,24 @@
 </section>
 
 <section>
+<ul class = "paginator">
+<a href = "#prev"> Prev<< </a>
+<a href = "#">1</a>
+<a href = "#">2</a>
+<a href = "#">3</a>
+<a href = "#">4</a>
+<a href = "#">5</a>
+<a href = "#">6</a>
+<a href = "#">7</a>
+<a href = "#">8</a>
+<a href = "#">9</a>
+<a href = "#">10</a>
+<a href = "#">11</a>
+<a href = "#">12</a>
+<a href = #next"> >>Next </a>
+</section>
+
+<section>
 	<h1></h1>
 	<time datetime="<дата и время>"></time>
 	<article><img src="" alt=""></article>
