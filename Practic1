@@ -1,0 +1,83 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+</head>
+<body>
+<header>
+<a href=""></a>
+<nav>
+<ul>
+<li><a href="">Home</a></li>
+<li><a href="">Article</a></li>
+<li><a href="">Tutorials</a></li>
+<li><a href="">Contact</a></li>
+</ul>
+</nav>
+</header>
+<section>
+	<h1></h1>
+	<time datetime="<дата и время>"></time>
+	<article><img src="green.png" alt=""></article>
+	<p><i> </i></p>
+	<p><mark></mark> <a href=""></a></p>
+	<a href="index2.html"></a>
+</section>
+
+<section>
+	<h1></h1>
+	<time datetime="<дата и время>"></time>
+	<article><img src="green.png" alt=""></article>
+	<p><mark>
+		
+	</mark></p>
+	<p>	<i>	</i> <a href="Praesent gravida suscipt leo,"></a></p>
+	<a href=""></a>
+</section>
+
+
+<section>
+<menu>
+<dt>Categories</dt>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+</dl>
+<dl>
+<dt>Recent Comments</dt>
+<dt></dt>
+<dt></dt>
+<dt></dt>
+<dt></dt>
+<dt></dt>
+<a href="">View more</a>
+</dl>
+</section>
+<footer>
+<h2></h2>
+<p></p>
+
+<h2>Site page</h2>
+<nav>
+<ul>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+</ul>
+</nav>
+
+<dl>
+<dt>Recent Comments</dt>
+<dt><a href=""></a></dt>
+<dt><a href=""></a></dt>
+<dt><a href=""></a></dt>
+<dt><a href=""></a></dt>
+<dt><a href=""></a></dt>
+</dl>
+</footer>
+</body>
+</HTML>
